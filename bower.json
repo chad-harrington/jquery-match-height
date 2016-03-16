@@ -1,0 +1,11 @@
+{
+    "name": "matchHeight",
+    "version": "1.0.7.1",
+    "main": "jquery.matchHeight.js",
+    "description": "a more robust, responsive equal heights plugin for jQuery",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}
