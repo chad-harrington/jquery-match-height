@@ -1,7 +1,7 @@
 /**
-* jquery-match-height 0.7.0 by @liabru
-* http://brm.io/jquery-match-height/
-* License: MIT
+* jquery-match-height 0.7.0.1
+* - copy of jquery-match-height 0.7.0 by @liabru
+* - with modifications by me, so it's version is 0.7.0.1
 */
 
 ;(function(factory) { // eslint-disable-line no-extra-semi
